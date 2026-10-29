@@ -2,7 +2,7 @@
 
 A production-ready RESTful API for personal expense tracking, built with **FastAPI**, **SQLAlchemy**, and **PostgreSQL** (Supabase). It supports secure JWT-based authentication and provides full CRUD operations for income and expense transactions, with strict per-user data isolation.
 
-🚀 **Production URL:** [https://YOUR-APP.onrender.com/docs](https://YOUR-APP.onrender.com/docs)
+🚀 **Production URL:** [https://expense-tracker-api-4l7a.onrender.com/](https://expense-tracker-api-4l7a.onrender.com/)
 
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -30,7 +30,6 @@ A production-ready RESTful API for personal expense tracking, built with **FastA
   - [Filtering](#filtering)
 - [Testing](#-testing)
 - [Author](#-author)
-- [Deployment](#-Deployment)
 
 ---
 
