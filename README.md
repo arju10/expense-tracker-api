@@ -8,8 +8,7 @@ A production-ready RESTful API for personal expense tracking, built with **FastA
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red)](https://www.sqlalchemy.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supabase-336791?logo=postgresql&logoColor=white)](https://supabase.com/)
-[![Tests](https://img.shields.io/badge/tests-5%20passed-brightgreen)]()
-[![License](https://img.shields.io/badge/license-MIT-blue)]()
+
 
 ---
 
